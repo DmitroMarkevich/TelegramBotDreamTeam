@@ -4,13 +4,6 @@ TelegramBotDreamTeam is a cutting-edge currency bot project implemented using Ja
 
 # Technologies Used
 
-# Spring Boot
-Spring Boot is the core framework of this project, providing a robust and efficient foundation for building and deploying Java applications. It simplifies the development process by offering out-of-the-box solutions, and its integration with Spring JPA and Hibernate ensures seamless data management and persistence.
-Jsoup is a library for parsing HTML documents.
-
-# Spring JPA and Hibernate
-Spring JPA (Java Persistence API) in combination with Hibernate provides a powerful and flexible approach to database interaction. It simplifies database operations by offering an object-relational mapping (ORM) system, allowing you to work with Java objects while seamlessly handling database communication.
-
 #Telegram API
 The Telegram API library empowers the bot to interact with the Telegram messaging platform. It facilitates sending and receiving messages, processing user input, and providing real-time currency information to users.
 
